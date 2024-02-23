@@ -121,7 +121,7 @@ const Login = () => {
               Register
             </a>
           </span>
-          {/* <h6 className="mb-4 text-center text-danger">{error}</h6> */}
+          <h6 className="mb-4 text-center text-danger">{error}</h6>
         </form>
       </div>
     </div>
